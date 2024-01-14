@@ -1,6 +1,6 @@
 # Ejercicios-Java
 
-Este repositorio contiene algunos ejercicios de Java que resolví durante mi aprendizaje en LinkedIn Learning. Estos ejercicios forman parte de mi trabajo en la academia "XureDev" en Discord.
+Este repositorio contiene algunos ejercicios de Java que resolví con otros autodidactas. Estos ejercicios forman parte de mi trabajo en la academia "XureDev" en Discord.
  ...
 
 ## Instrucciones
